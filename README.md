@@ -1,14 +1,6 @@
-# VLESS Heroku
 
-## 概述
 
-用于在 Heroku 上部署 vless+websocket+tls  vless 性能更加优秀，占用资源更少。
-
-## 镜像
-
-经测试本镜像不会因为大量占用资源而被封号。
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/cyao2q/heroku-vless-1/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/happyniess/he-vl-1/tree/master)
 
 ## 注意
 
